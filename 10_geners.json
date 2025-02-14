@@ -1,0 +1,74 @@
+[
+  {
+    "genres": [
+      "Drama"
+    ],
+    "count": 208
+  },
+  {
+    "genres": [
+      "Comedy"
+    ],
+    "count": 183
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Drama"
+    ],
+    "count": 175
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "count": 170
+  },
+  {
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "count": 144
+  },
+  {
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "count": 143
+  },
+  {
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Crime"
+    ],
+    "count": 90
+  },
+  {
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "count": 60
+  },
+  {
+    "genres": [
+      "Action",
+      "Thriller",
+      "Drama",
+      "Crime"
+    ],
+    "count": 60
+  },
+  {
+    "genres": [
+      "Horror"
+    ],
+    "count": 60
+  }
+]
